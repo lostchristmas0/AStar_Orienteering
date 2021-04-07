@@ -1,0 +1,10 @@
+Terrain type    flat
+open land    2
+Rough meadow    1.5
+Easy movement forest    1.8
+Slow run forest    1.4
+Walk forest    1.2
+Impassible vegetation    0
+Lake/Swamp/Marsh    0/1
+Paved road    2.5
+Foot path    2.2
